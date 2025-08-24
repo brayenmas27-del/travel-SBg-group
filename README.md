@@ -1,6 +1,4 @@
-DOCTYPE html>
-<html lang="id">
-<head>
+
   <!DOCTYPE html>
 <html lang="id">
 <head>
